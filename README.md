@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solutions](https://your-solution-url.com)
-- Live Site URL: [Social Profiles Links](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solutions](https://www.frontendmentor.io/solutions/responsive-social-profile-link-card-using-css-flexbox-and-css-grid-rBUdMQTzi3#comment-6a3dccc628d578c87e6d06f3)
+- Live Site URL: [Social Profiles Links](https://social-profiles-webpage.vercel.app/)
 
 ## My process
 - First I built my own Web design using figma
@@ -66,6 +66,6 @@ I want to keep developing myself in html semantics and proper code arrngements.
 
 ## Author
 
-- Website - [Leroy Mends](https://socialprofileswebpage.vercel.app/)
+- Website - [Leroy Mends](https://social-profiles-webpage.vercel.app/)
 - Frontend Mentor - [@mpartisan1000](https://www.frontendmentor.io/profile/mpartisan1000)
 
